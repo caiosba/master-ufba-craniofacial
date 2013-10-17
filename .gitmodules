@@ -1,3 +1,6 @@
 [submodule "caio"]
 	path = caio
 	url = git@github.com:caiosba/master-project.git
+[submodule "kinectfusion"]
+	path = kinectfusion
+	url = git@github.com:MarcioCerqueira/MyKinectFusion.git
